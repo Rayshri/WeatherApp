@@ -1,0 +1,20 @@
+@import "variables_weather.scss";
+
+.header {
+    text-align: center;
+}
+
+.weather{
+    text-align: center;
+    //margin-top: -150px;
+}
+
+.weatherAdd {
+    margin: 25px 0px 50px 635px;
+    text-align: center;
+    border: 1px solid $primarycolor;
+    border-radius: 16px;
+    background-color: $primarycolor;
+    width: 140px;
+    height: 280px;
+}
