@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "variables_weather.scss"
-    ],
-    "names": [],
-    "file": "variables_weather.css"
-}
