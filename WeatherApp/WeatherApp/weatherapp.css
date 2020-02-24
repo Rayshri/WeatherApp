@@ -1,24 +1,18 @@
-.header .header__title {
+.header {
   text-align: center;
 }
 
-.weatherSearch {
+.weather {
   text-align: center;
-  margin-top: -150px;
-}
-
-.weatherSearch .weatherSearch__button {
-  margin-top: 170px;
 }
 
 .weatherAdd {
-  text-align: center;
-  margin-bottom: 50px;
-  margin-left: 50px;
+  margin: 25px 0px 50px 635px;
   text-align: center;
   border: 1px solid #3BACDD;
   border-radius: 16px;
   background-color: #3BACDD;
-  width: 150px;
+  width: 140px;
+  height: 280px;
 }
 /*# sourceMappingURL=weatherapp.css.map */

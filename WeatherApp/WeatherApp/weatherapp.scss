@@ -1,34 +1,20 @@
-// .container {
-//     background-image: url('rain.jpg');
-//     background-repeat: no-repeat;
-//     background-size: cover;
-// }
-
+@import "variables_weather.scss";
 
 .header {
-
-    .header__title{
-        text-align: center;
-    }
+    text-align: center;
 }
 
-.weatherSearch {
+.weather{
     text-align: center;
-    margin-top: -150px;
-
-    .weatherSearch__button {
-        margin-top: 170px;
-    }
+    //margin-top: -150px;
 }
 
 .weatherAdd {
+    margin: 25px 0px 50px 635px;
     text-align: center;
-    margin-bottom: 50px;
-    margin-left: 50px;
-    text-align: center;
-    border: 1px solid #3BACDD;
+    border: 1px solid $primarycolor;
     border-radius: 16px;
-    background-color: #3BACDD;
-    width: 150px;
+    background-color: $primarycolor;
+    width: 140px;
+    height: 280px;
 }
- 
